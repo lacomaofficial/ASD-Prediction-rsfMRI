@@ -1,4 +1,4 @@
-# **Autism Spectrum Disorder Classification Using Transformer Models:** 
+# **Autism Spectrum Disorder Classification Using Transformer Models** 
 
 
 #### **Abstract**
