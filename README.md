@@ -1,6 +1,6 @@
-# **Autism Spectrum Disorder Classification Using Transformer Models:** 
+# **Autism Spectrum Disorder Classification Using Transformer Models:**  ### A Novel Approach to Resting-State fMRI Analysis
 
-(A Novel Approach to Resting-State fMRI Analysis)
+
 
 #### **Abstract**
 We present a novel Transformer-based architecture for classifying Autism Spectrum Disorder (ASD) from resting-state functional magnetic resonance imaging (rs-fMRI) data. Integrating demographic features (age and gender) with brain connectivity metrics, the model leverages multi-head self-attention to identify key biomarkers associated with ASD. Our findings reveal crucial brain regions contributing to ASD classification, including the **Callosomarginal Sulcus**, **Lingual Gyrus**, and **Anterior Cingulate Cortex**, emphasizing the model’s capacity to extract meaningful neurological insights. This work demonstrates the potential of deep learning in advancing computational neuroscience and precision medicine.
