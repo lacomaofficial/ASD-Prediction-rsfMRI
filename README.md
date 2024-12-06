@@ -83,7 +83,7 @@ The Transformer model effectively identifies patterns in rs-fMRI data that align
   
 ![newplot](https://github.com/user-attachments/assets/6ded66c6-b05d-4481-ae37-13f0b1de540f)
 
-The highlighted regions of interest (ROIs) and their connections identified in the analysis can help predict Autism Spectrum Disorder (ASD) because these areas are linked to critical neural processes and behavioral features often altered in individuals with ASD. Below is a detailed explanation of the ROIs and their potential contribution to ASD prediction, supported by their known functional roles and literature on ASD-related neuroanatomical changes.
+**The highlighted regions of interest (ROIs) and their connections identified in the analysis can help predict Autism Spectrum Disorder (ASD) because these areas are linked to critical neural processes and behavioral features often altered in individuals with ASD. Below is a detailed explanation of the ROIs and their potential contribution to ASD prediction, supported by their known functional roles and literature on ASD-related neuroanatomical changes.**
 
 ---
 
@@ -94,7 +94,7 @@ The highlighted regions of interest (ROIs) and their connections identified in t
   - The **Lingual Gyrus** is involved in visual processing and integrating visual stimuli with other sensory modalities.
 - **Relevance to ASD:** Altered connectivity between frontal and visual processing regions may contribute to atypical social attention and sensory integration observed in ASD. Studies have reported atypical frontal connectivity in ASD during resting-state fMRI, which can disrupt the interpretation of visual cues in social contexts.
 
----
+
 
 ### **2. Superior Fornix and Isthmus - Postcentral Gyrus (Inferior)**
 - **Importance:** 0.0248
@@ -103,7 +103,7 @@ The highlighted regions of interest (ROIs) and their connections identified in t
   - The **Postcentral Gyrus** is a primary somatosensory area, important for tactile information processing.
 - **Relevance to ASD:** Aberrant limbic-sensory connectivity may explain atypical sensory processing and emotional responses in ASD. Over-connectivity or under-connectivity between these regions might manifest as hypersensitivity to tactile stimuli and difficulties in emotion recognition, common ASD traits.
 
----
+
 
 ### **3. Anterior Cingulate Cortex - Lingual Gyrus**
 - **Importance:** 0.0236
@@ -112,7 +112,7 @@ The highlighted regions of interest (ROIs) and their connections identified in t
   - The **Lingual Gyrus**, as mentioned, handles visual processing and sensory integration.
 - **Relevance to ASD:** The ACC is often implicated in ASD for its role in emotional and attentional deficits. Disrupted connectivity with the Lingual Gyrus might indicate difficulties in integrating emotional cues with sensory stimuli, aligning with challenges in social communication.
 
----
+
 
 ### **4. Superior Fornix and Isthmus - Lateral Occipital Cortex**
 - **Importance:** 0.0228
@@ -121,7 +121,6 @@ The highlighted regions of interest (ROIs) and their connections identified in t
   - The **Superior Fornix and Isthmus** support emotional and mnemonic processes.
 - **Relevance to ASD:** This connection highlights the integration of emotional and visual-spatial processing. Impairments here could underlie difficulties in recognizing faces or reading social scenes, hallmarks of ASD.
 
----
 
 ### **5. Cerebellum I-V - Occipital Pole**
 - **Importance:** 0.0222
@@ -130,7 +129,7 @@ The highlighted regions of interest (ROIs) and their connections identified in t
   - The **Occipital Pole** handles primary visual processing.
 - **Relevance to ASD:** Atypical cerebellar function is a well-documented feature of ASD. Dysconnectivity with visual areas may reflect difficulties in coordinating sensory input with motor actions, such as challenges in gaze following or fine motor activities in social settings.
 
----
+
 
 ### **Broader Implications for Resting-State fMRI in ASD**
 These ROIs collectively emphasize disrupted connectivity in:
@@ -140,7 +139,7 @@ These ROIs collectively emphasize disrupted connectivity in:
 
 The Transformer model identifies these patterns by learning the subtle interconnections between ROIs, showcasing their collective impact on ASD-specific neural activity. This provides a foundation for developing objective biomarkers and improving understanding of ASD's neurobiological basis.
 
----
+
 
 ### **Supporting Literature**
 To reinforce these insights, studies such as the following are relevant:
@@ -159,8 +158,5 @@ This study demonstrates the potential of Transformer models for analyzing high-d
 
 ### **Supplementary Materials**
 The full feature importance table, source code, and visualization outputs are available in the project repository. The interactive connectome plot can be accessed at **`abide_connectome_plot.html`**.
-
-The highlighted regions of interest (ROIs) and their connections identified in the analysis can help predict Autism Spectrum Disorder (ASD) because these areas are linked to critical neural processes and behavioral features often altered in individuals with ASD. Below is a detailed explanation of the ROIs and their potential contribution to ASD prediction, supported by their known functional roles and literature on ASD-related neuroanatomical changes.
-
 
 
