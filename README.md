@@ -39,9 +39,10 @@ Autism Spectrum Disorder (ASD) involves disrupted brain connectivity. Resting-st
 ## **Results**
 
 ### **Model Performance**
-- **Validation Accuracy**: 67.4%
+- **Accuracy**: 69.7%
 - **AUC**: 66.6%
 - **F1 Score**: 69.5%
+
 
 These results highlight the model's effectiveness in classifying ASD from rs-fMRI data.
 
